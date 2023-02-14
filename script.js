@@ -101,7 +101,7 @@ menuItems.forEach((item,index)=>{
       //change text of current product
 
       currentProductTitle.textContent=choosenProduct.title;
-      currentProductPrice.textContent= choosenProduct.price;
+      currentProductPrice.textContent= '\u20B9'+ choosenProduct.price;
       currentProductImg.src=choosenProduct.colors[0].img;
 
       //assign new colors
