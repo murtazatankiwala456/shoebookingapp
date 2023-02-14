@@ -489,7 +489,7 @@ footer{
     align-items: center;
     text-align: center;
     position: relative;
-    top: 0;
+    top: -45px;
   }
   .productTitle{
     font-size: 50px;
